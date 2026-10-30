@@ -14,7 +14,7 @@
 
 ## Live
 
-- 🌐 **Live demo:** _add your Vercel URL here after deploying_
+- 🌐 **Live demo:** https://foothold-five.vercel.app
 - 💻 **Repo:** https://github.com/shegz101/foothold
 
 ---
