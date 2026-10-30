@@ -1,0 +1,33 @@
+{
+  "name": "foothold",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "probe": "node --env-file=.env probe/probe.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "typescript": "^5"
+  },
+  "description": "Market entry briefs for immigrant entrepreneurs: where in a new city to open, grounded in the Qloo taste graph.",
+  "license": "MIT",
+  "author": "Bobate Olusegun",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shegz101/foothold.git"
+  }
+}
